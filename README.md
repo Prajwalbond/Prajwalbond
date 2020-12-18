@@ -1,4 +1,4 @@
-<h1 align="center">Aditya Kadam<img src="https://github.com/Prajwalbond/Prajwalbond/blob/main/assets/waving_hand.gif" width="25px"></h1>
+<h1 align="center">Prajwal Bondarde<img src="https://github.com/Prajwalbond/Prajwalbond/blob/main/assets/waving_hand.gif" width="25px"></h1>
 
 <p align='center'>
  <a href="https://www.instagram.com/prajwal_bondarde/"><img height="35" src="https://github.com/Prajwalbond/Prajwalbond/blob/main/assets/IG.gif" width="35px"></a>&nbsp;&nbsp;
