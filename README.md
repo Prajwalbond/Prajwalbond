@@ -16,7 +16,7 @@
 <p align="center">Bio</p>
 
 <p align='center'>Click to Talk <br>
-<a href="https://github.com/Prajwalbond/Prajwalbond/issues/new?assignees=&labels=&template=bounce-your-idea.md&title="><img height="50" src="https://github.com/Prajwalbond/Prajwalbond/blob/main/assets/Lets_Talk.gif"></a>&nbsp;&nbsp;
+<a href="https://github.com/Prajwalbond/Prajwalbond/issues/new?assignees=&labels=&template=project-ideas.md&title="><img height="50" src="https://github.com/Prajwalbond/Prajwalbond/blob/main/assets/Lets_Talk.gif"></a>&nbsp;&nbsp;
  </p>
 
 <p>I am an avid gamer (mostly FPS). I usually jam to music in my free time or bingewatch movies or read novels </p>
